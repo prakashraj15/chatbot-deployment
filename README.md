@@ -1,5 +1,3 @@
-# Chatbot Deployment with Flask and JavaScript
-
 This repo currently contains the starter files.
 
 Clone repo and create a virtual environment
